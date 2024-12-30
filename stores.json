@@ -1,0 +1,142 @@
+[
+  {
+    "name":"Code Academy",
+    "domain":"codecademy.com"
+  },
+  {
+    "name": "Amazon",
+    "domain": "amazon.com"
+  },
+  {
+    "name": "Walmart",
+    "domain": "walmart.com"
+  },
+  {
+    "name": "Target",
+    "domain": "target.com"
+  },
+  {
+    "name": "Best Buy",
+    "domain": "bestbuy.com"
+  },
+  {
+    "name": "eBay",
+    "domain": "ebay.com"
+  },
+  {
+    "name": "Home Depot",
+    "domain": "homedepot.com"
+  },
+  {
+    "name": "Lowe's",
+    "domain": "lowes.com"
+  },
+  {
+    "name": "Macy's",
+    "domain": "macys.com"
+  },
+  {
+    "name": "Kohl's",
+    "domain": "kohls.com"
+  },
+  {
+    "name": "Nordstrom",
+    "domain": "nordstrom.com"
+  },
+  {
+    "name": "Sephora",
+    "domain": "sephora.com"
+  },
+  {
+    "name": "Ulta Beauty",
+    "domain": "ulta.com"
+  },
+  {
+    "name": "Costco",
+    "domain": "costco.com"
+  },
+  {
+    "name": "Sam's Club",
+    "domain": "samsclub.com"
+  },
+  {
+    "name": "Wayfair",
+    "domain": "wayfair.com"
+  },
+  {
+    "name": "Overstock",
+    "domain": "overstock.com"
+  },
+  {
+    "name": "Bed Bath & Beyond",
+    "domain": "bedbathandbeyond.com"
+  },
+  {
+    "name": "Staples",
+    "domain": "staples.com"
+  },
+  {
+    "name": "Office Depot",
+    "domain": "officedepot.com"
+  },
+  {
+    "name": "Dell",
+    "domain": "dell.com"
+  },
+  {
+    "name": "HP",
+    "domain": "hp.com"
+  },
+  {
+    "name": "Apple",
+    "domain": "apple.com"
+  },
+  {
+    "name": "Microsoft Store",
+    "domain": "microsoft.com"
+  },
+  {
+    "name": "Adidas",
+    "domain": "adidas.com"
+  },
+  {
+    "name": "Nike",
+    "domain": "nike.com"
+  },
+  {
+    "name": "Under Armour",
+    "domain": "underarmour.com"
+  },
+  {
+    "name": "Dick's Sporting Goods",
+    "domain": "dickssportinggoods.com"
+  },
+  {
+    "name": "REI",
+    "domain": "rei.com"
+  },
+  {
+    "name": "Bath & Body Works",
+    "domain": "bathandbodyworks.com"
+  },
+  {
+    "name": "Victoria's Secret",
+    "domain": "victoriassecret.com"
+  },
+  {
+    "name": "Zara",
+    "domain": "zara.com"
+  },
+  {
+    "name": "H&M",
+    "domain": "hm.com"
+  },
+  {
+    "name": "Gap",
+    "domain": "gap.com"
+  },
+  {
+    "name": "Old Navy",
+    "domain": "oldnavy.com"
+  }
+]
